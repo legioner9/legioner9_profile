@@ -1,6 +1,6 @@
-<code>🎓 Student: KPI / IM-11</code>
+<code>🎓 Student: TGU</code>
 <code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>👷 Speciality: student</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, C++</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>💬 telegram: [@legioner9](https://telegram.me/legioner9)</code>
+<code>📫 [legioner9@inbox.ru](mailto:legioner9@inbox.ru])</code>
